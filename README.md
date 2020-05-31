@@ -227,6 +227,7 @@
 - [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
 - [Inapptics](https://inapptics.com) - Helps analyze and visualize user behavior in mobile apps. Provides visual user journeys, heatmaps and crash replays.
 - [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
+- [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## App Routing
 
@@ -580,6 +581,7 @@
 - [MongoKitten](https://github.com/OpenKitten/MongoKitten) - A pure Swift MongoDB client implementation with support for embedded databases.
 - [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults/NSUserDefaults with an extra AES-256 encryption layer.
 - [Unrealm](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
+- [QuickDB](https://github.com/behrad-kzm/QuickDB) - Save and Retrieve any `Codable` in JUST ONE line of code + more easy usecases.
 
 ## Data Structures / Algorithms
 
@@ -1006,6 +1008,7 @@
 - [OkLog](https://github.com/diegotl/OkLog-Swift) - A network logger for iOS and macOS projects.
 - [Spy](https://github.com/appunite/Spy) - Lightweight, flexible, multiplatform (iOS, macOS, tvOS, watchOS, Linux) logging utility written in pure Swift that allows you to log on different levels and channels which you can define on your own depending on your needs.
 - [Diagnostics](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
+- [Gedatsu](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
 
 ## Machine Learning
 
@@ -1561,6 +1564,7 @@ Most of these are paid services, some have free tiers.
 - [LightweightObservable](https://github.com/fxm90/LightweightObservable) - A lightweight implementation of an observable sequence that you can subscribe to.
 - [Bindy](https://github.com/MaximKotliar/Bindy) - Simple, lightweight swift bindings with KVO support and easy to read syntax.
 - [OpenCombine](https://github.com/broadwaylamb/OpenCombine) — Open source implementation of Apple's Combine framework for processing values over time.
+- [Verge](https://github.com/muukii/Verge) - Verge is a faster and scalable state management library for UIKit and SwiftUI
 
 ### React-Like
 - [Render](https://github.com/alexdrone/Render) - Swift and UIKit a la React.
@@ -1802,6 +1806,7 @@ Most of these are paid services, some have free tiers.
 - [EFMarkdown](https://github.com/EFPrefix/EFMarkdown) - A lightweight Markdown library for iOS.
 - [Croc](https://github.com/jkalash/croc) - A lightweight Swift library for Emoji parsing and querying.
 - [PostalCodeValidator](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions.
+- [CodeMirror Swift](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes. 
 
 ### Font
 - [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
@@ -3038,6 +3043,7 @@ Most of these are paid services, some have free tiers.
 - [Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused code.
 - [Speculid](https://speculid.com) - generate Image Sets and App Icons from SVG, PNG, and JPEG files
 - [SkrybaMD](https://github.com/robertherdzik/SkrybaMD) - Markdown Documentation generator. If your team need easy way to maintain and create documentation, this generator is for you.
+- [Storyboard -> SwiftUI Converter](https://swiftify.com/#/converter/storyboard2swiftui/) - Storyboard -> SwiftUI Converter is a converter to convert .storyboard and .xib to SwiftUI.
 
 ## Rapid Development
 
